@@ -14,7 +14,7 @@ body{
 .hero{
   height:100vh;
   position: relative;
-  background-image: url("Assets/MicaelaMongelliboliche.png");
+  background-image: url("assets/MicaelaMongelliboliche.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@ body{
 /* HERO - mobile */
 @media (max-width: 768px){
   .hero{
-    background-image: url("assets/MicaelaMongellicelular.png");
+    background-image: url("assets/MicaelaMongelliCelular.png");
     background-position: center top; /* mejor encuadre en vertical */
   }
 }
@@ -554,3 +554,4 @@ footer{
   content: none !important;
   display: none !important;
 }
+
